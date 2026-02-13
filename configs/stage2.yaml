@@ -1,0 +1,7 @@
+seed: 42
+batch_size: 256
+epochs: 8
+lr: 0.001
+encoder_path: artifacts/stage1/encoder.keras
+out_dir: artifacts/stage2
+dropout: 0.2

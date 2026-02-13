@@ -1,3 +1,4 @@
+# Stage 2 - Transfer Learning
 import tensorflow as tf
 from src.data import load_fashion_mnist
 from src.models import build_classifier_from_encoder
